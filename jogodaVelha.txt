@@ -1,0 +1,24 @@
+Nome: Guina
+Senha: 123
+Guina,5,4,0,1
+Nome: Maria
+Senha: 4321
+Maria,5,1,0,4
+Nome: Jogador_X
+Senha: ï¿½ï¿
+Jogador_X,6,3,0,3
+Nome: Jogador_O
+Senha: ï¿½ï¿
+Jogador_O,6,3,0,3
+Nome: dijasidjsa
+Senha: aisdj
+dijasidjsa,0,0,0,0
+Nome: saijdisaji
+Senha: idjas
+saijdisaji,0,0,0,0
+Nome: Thayse
+Senha: 54321
+Thayse,1,1,0,0
+Nome: Guilherme
+Senha: 0987
+Guilherme,1,0,0,1
