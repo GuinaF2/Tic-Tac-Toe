@@ -1,11 +1,11 @@
 # Tic-Tac-Toe
 
-This project is a simple implementation of the classic Tic-Tac-Toe game in the C programming language. The game allows two players to take turns placing "X" and "O" on a 3x3 board in the terminal.
+This project is a simple implementation of the classic Tic-Tac-Toe game in the C programming language. The game allows two players to take turns placing "X" and "O" on a 3x3 board in the terminal.You can play without logging or you can register and login both users. While logged, the matches statistics will be recorded and can be checked.
 
 ## Project Structure
 
 - `JogoDaVelhaGuilherme.c`: Main source code file.
-- `jogodaVelha.txt`: Auxiliary text file (optional).
+- `jogodaVelha.txt`: Auxiliary text file.
 
 ## Prerequisites
 
