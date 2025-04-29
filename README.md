@@ -51,6 +51,4 @@ Example board positions:
  7 | 8 | 9
 ```
 
-## License
-
 This project is licensed under the MIT License.
